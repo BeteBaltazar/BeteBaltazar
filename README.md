@@ -11,7 +11,7 @@
 
 <h4 align="left">👩‍💻Sobre mim!</h4>
 
-<p align="left">🎂Tenho 18 anos e sou natural do Brasil;<br>📚Estudante assídua de inglês e programação;<br>🎮Entusiasta de jogos e desenhista por hobbie;<br>💻Mais de 3 mil linhas de código digitadas no vscode — tudo por pura paixão e curiosidade!.<br><br><br>Por enquanto é só isso!</p>
+<p align="left">🎂Tenho 18 anos e sou natural do Brasil;<br>📚Estudante de programação;<br>🎮Entusiasta de jogos e desenhista por hobbie;<br>💻Mais de 3 mil linhas de código digitadas no vscode (Por puro divertimento e curiosidade)!.<br><br><br>Por enquanto é só isso!</p>
 
 
 <div align="left">
